@@ -1,0 +1,249 @@
+{
+ "_ratio": "4/3",
+ "extraccion-de-muelas-del-juicio": [
+  {
+   "src": "img/procedimientos/extraccion-de-muelas-del-juicio/01.webp",
+   "srcset": "img/procedimientos/extraccion-de-muelas-del-juicio/01-800.webp 800w, img/procedimientos/extraccion-de-muelas-del-juicio/01.webp 894w",
+   "w": 894,
+   "h": 670,
+   "alt": "Extracción de Muelas del Juicio — foto 1",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/extraccion-de-muelas-del-juicio/02.webp",
+   "srcset": "img/procedimientos/extraccion-de-muelas-del-juicio/02-800.webp 800w, img/procedimientos/extraccion-de-muelas-del-juicio/02.webp 1141w",
+   "w": 1141,
+   "h": 856,
+   "alt": "Extracción de Muelas del Juicio — foto 2",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/extraccion-de-muelas-del-juicio/03.webp",
+   "srcset": "img/procedimientos/extraccion-de-muelas-del-juicio/03-800.webp 800w, img/procedimientos/extraccion-de-muelas-del-juicio/03.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Extracción de Muelas del Juicio — foto 3",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/extraccion-de-muelas-del-juicio/04.webp",
+   "srcset": "img/procedimientos/extraccion-de-muelas-del-juicio/04-800.webp 800w, img/procedimientos/extraccion-de-muelas-del-juicio/04.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Extracción de Muelas del Juicio — foto 4",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/extraccion-de-muelas-del-juicio/05.webp",
+   "srcset": "img/procedimientos/extraccion-de-muelas-del-juicio/05-800.webp 800w, img/procedimientos/extraccion-de-muelas-del-juicio/05.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Extracción de Muelas del Juicio — foto 5",
+   "caption": "",
+   "sensible": false
+  }
+ ],
+ "cirugia-ortognatica": [
+  {
+   "src": "img/procedimientos/cirugia-ortognatica/01.webp",
+   "srcset": "img/procedimientos/cirugia-ortognatica/01-800.webp 800w, img/procedimientos/cirugia-ortognatica/01.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Cirugía Ortognática — foto 1",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/cirugia-ortognatica/02.webp",
+   "srcset": "img/procedimientos/cirugia-ortognatica/02-800.webp 800w, img/procedimientos/cirugia-ortognatica/02.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Cirugía Ortognática — foto 2",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/cirugia-ortognatica/03.webp",
+   "srcset": "img/procedimientos/cirugia-ortognatica/03-800.webp 800w, img/procedimientos/cirugia-ortognatica/03.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Cirugía Ortognática — foto 3",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/cirugia-ortognatica/04.webp",
+   "srcset": "img/procedimientos/cirugia-ortognatica/04-800.webp 800w, img/procedimientos/cirugia-ortognatica/04.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Cirugía Ortognática — foto 4",
+   "caption": "",
+   "sensible": false
+  }
+ ],
+ "patologia-oral-y-biopsias": [
+  {
+   "src": "img/procedimientos/patologia-oral-y-biopsias/01.webp",
+   "srcset": "img/procedimientos/patologia-oral-y-biopsias/01-800.webp 800w, img/procedimientos/patologia-oral-y-biopsias/01.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Patología Oral y Biopsias — foto 1",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/patologia-oral-y-biopsias/02.webp",
+   "srcset": "img/procedimientos/patologia-oral-y-biopsias/02-800.webp 800w, img/procedimientos/patologia-oral-y-biopsias/02.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Patología Oral y Biopsias — foto 2",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/patologia-oral-y-biopsias/03.webp",
+   "srcset": "img/procedimientos/patologia-oral-y-biopsias/03-800.webp 800w, img/procedimientos/patologia-oral-y-biopsias/03.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Patología Oral y Biopsias — foto 3",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/patologia-oral-y-biopsias/04.webp",
+   "srcset": "img/procedimientos/patologia-oral-y-biopsias/04.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Patología Oral y Biopsias — foto 4",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/patologia-oral-y-biopsias/05.webp",
+   "srcset": "img/procedimientos/patologia-oral-y-biopsias/05.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Patología Oral y Biopsias — foto 5",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/patologia-oral-y-biopsias/06.webp",
+   "srcset": "img/procedimientos/patologia-oral-y-biopsias/06.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Patología Oral y Biopsias — foto 6",
+   "caption": "",
+   "sensible": true
+  }
+ ],
+ "labio-y-paladar-hendido": [
+  {
+   "src": "img/procedimientos/labio-y-paladar-hendido/01.webp",
+   "srcset": "img/procedimientos/labio-y-paladar-hendido/01.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Labio y Paladar Hendido — foto 1",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/labio-y-paladar-hendido/02.webp",
+   "srcset": "img/procedimientos/labio-y-paladar-hendido/02.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Labio y Paladar Hendido — foto 2",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/labio-y-paladar-hendido/03.webp",
+   "srcset": "img/procedimientos/labio-y-paladar-hendido/03.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Labio y Paladar Hendido — foto 3",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/labio-y-paladar-hendido/04.webp",
+   "srcset": "img/procedimientos/labio-y-paladar-hendido/04.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Labio y Paladar Hendido — foto 4",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/labio-y-paladar-hendido/05.webp",
+   "srcset": "img/procedimientos/labio-y-paladar-hendido/05.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Labio y Paladar Hendido — foto 5",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/labio-y-paladar-hendido/06.webp",
+   "srcset": "img/procedimientos/labio-y-paladar-hendido/06.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Labio y Paladar Hendido — foto 6",
+   "caption": "",
+   "sensible": true
+  }
+ ],
+ "implantes-dentales-y-regeneracion-osea": [
+  {
+   "src": "img/procedimientos/implantes-dentales-y-regeneracion-osea/01.webp",
+   "srcset": "img/procedimientos/implantes-dentales-y-regeneracion-osea/01-800.webp 800w, img/procedimientos/implantes-dentales-y-regeneracion-osea/01.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Implantes Dentales y Regeneración Ósea — foto 1",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/implantes-dentales-y-regeneracion-osea/02.webp",
+   "srcset": "img/procedimientos/implantes-dentales-y-regeneracion-osea/02-800.webp 800w, img/procedimientos/implantes-dentales-y-regeneracion-osea/02.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Implantes Dentales y Regeneración Ósea — foto 2",
+   "caption": "",
+   "sensible": true
+  },
+  {
+   "src": "img/procedimientos/implantes-dentales-y-regeneracion-osea/03.webp",
+   "srcset": "img/procedimientos/implantes-dentales-y-regeneracion-osea/03-800.webp 800w, img/procedimientos/implantes-dentales-y-regeneracion-osea/03.webp 1600w",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Implantes Dentales y Regeneración Ósea — foto 3",
+   "caption": "",
+   "sensible": true
+  }
+ ],
+ "trastornos-de-atm-y-dolor-facial": [
+  {
+   "src": "img/procedimientos/trastornos-de-atm-y-dolor-facial/01.webp",
+   "srcset": "img/procedimientos/trastornos-de-atm-y-dolor-facial/01-800.webp 800w, img/procedimientos/trastornos-de-atm-y-dolor-facial/01.webp 1536w",
+   "w": 1536,
+   "h": 1152,
+   "alt": "Trastornos de ATM y Dolor Facial — foto 1",
+   "caption": "",
+   "sensible": false
+  },
+  {
+   "src": "img/procedimientos/trastornos-de-atm-y-dolor-facial/02.webp",
+   "srcset": "img/procedimientos/trastornos-de-atm-y-dolor-facial/02.webp 640w",
+   "w": 640,
+   "h": 480,
+   "alt": "Trastornos de ATM y Dolor Facial — foto 2",
+   "caption": "",
+   "sensible": false
+  }
+ ]
+}
